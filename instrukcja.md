@@ -8,3 +8,9 @@
 6. Kolaborator edytuje `wersja2.md`.
 7. Trzeci członek zespołu tworzy pull request z propozycją zmian do `wersja-finalna.md`.
 8. Wspólnie zatwierdźcie zmiany.
+
+linki do dokumentacji:
+
+(https://docs.github.com/en/pull-requests)
+
+(https://docs.github.com/en/repositories)
